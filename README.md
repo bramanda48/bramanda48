@@ -2,7 +2,8 @@
 
 I'm a self-taught developer from **Malang, Indonesia**. I love programming a lot of things such as websites, automation, applications and others. I have more than 4 years experience in programming and always keep learning. 
 
-Currently, I am deepening my backend skills to achieve the goal of creating a secure and scalable infrastructure
+**Currently**, I am deepening my backend skills to achieve the goal of creating a secure and scalable infrastructure
+
 ---
 
 ### 🧑‍💻 Technologies & Tools
