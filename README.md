@@ -1,8 +1,8 @@
 # 👋🏻 Hey, I'm BRAM
 
-I'm a self-taught developer from **Malang, Indonesia**. I enjoy programming various things, including websites, automation, applications, and more. With over 4 years of experience in programming, I am always eager to learn and improve.
+A self-taught developer from **Malang, Indonesia**. I enjoy programming various things, including websites, automation, applications, and more. With over 4 years of experience in programming, I am always eager to learn and improve.
 
-**Currently**, I am deepening my backend skills to achieve the goal of creating a secure and scalable infrastructure
+**Currently**, I am deepening my backend skills to achieve the goal of creating a secure and scalable infrastructure.
 
 ---
 
