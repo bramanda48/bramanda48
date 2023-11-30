@@ -33,15 +33,15 @@ A self-taught developer from **Malang, Indonesia**. I enjoy programming various 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-Total Time: 11 hrs 25 mins
+Total Time: 15 hrs 1 min
 
-YAML                       8 hrs 59 mins   ███████████████████▓░░░░░   78.65 %
-Markdown                   57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Dart                       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-PHP                        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Nginx                      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+YAML                       10 hrs 1 min    ████████████████▓░░░░░░░░   66.74 %
+Blade Template             1 hr 54 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+PHP                        53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Nginx                      34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Dart                       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
