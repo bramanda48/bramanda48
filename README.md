@@ -33,15 +33,15 @@ A self-taught developer from **Malang, Indonesia**. I enjoy programming various 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-Total Time: 17 hrs 43 mins
+Total Time: 11 hrs 45 mins
 
-Blade Template   10 hrs 3 mins   ██████████████▒░░░░░░░░░░   56.74 %
-PHP              7 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.45 %
-CSS              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Other            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Blade Template   5 hrs 56 mins   ████████████▓░░░░░░░░░░░░   50.51 %
+PHP              5 hrs 34 mins   ████████████░░░░░░░░░░░░░   47.44 %
+CSS              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
