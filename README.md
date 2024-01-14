@@ -33,15 +33,15 @@ A self-taught developer from **Malang, Indonesia**. I enjoy programming various 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
-Total Time: 1 hr 18 mins
+Total Time: 1 hr 11 mins
 
-PHP             40 mins         █████████████░░░░░░░░░░░░   51.81 %
-Bash            12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-Python          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-YAML            6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-TSConfig        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+PHP             40 mins         ██████████████▒░░░░░░░░░░   57.00 %
+Bash            12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+YAML            6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+TSConfig        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Apache Config   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
