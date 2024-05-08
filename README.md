@@ -53,14 +53,14 @@ Other         1 hr 52 mins    ██▓░░░░░░░░░░░░░�
             <code>C Sharp</code>
           </div>
       </td>
+    </tr>
+    <tr>
       <td>
           <div align="center">
             <img width="50" alt=".NET Core" src="https://cdn.jsdelivr.net/gh/bramanda48/bramanda48@main/assets/netcore.svg"><br/>
             <code>.NET Core</code>
           </div>
       </td>
-    </tr>
-    <tr>
       <td>
           <div align="center">
             <img width="50" alt="VB.NET" src="https://gitconnected.com/public/images/tutorials/svg/visual-basic-net-vb.svg"><br/>
@@ -79,6 +79,8 @@ Other         1 hr 52 mins    ██▓░░░░░░░░░░░░░�
             <code>Node.js</code>
           </div>
       </td>
+    </tr>
+    <tr>
       <td>
           <div align="center">
             <img width="50" alt="NestJS" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg"><br/>
@@ -89,14 +91,6 @@ Other         1 hr 52 mins    ██▓░░░░░░░░░░░░░�
           <div align="center">
             <img width="50" alt="Swagger" src="https://raw.githubusercontent.com/caputomarcos/node-red-contrib-swagger-js/master/icons/swagger.svg"><br/>
             <code>Swagger</code>
-          </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-          <div align="center">
-            <img width="50" alt="Deno" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg"><br/>
-            <code>Deno</code>
           </div>
       </td>
       <td>
@@ -111,10 +105,18 @@ Other         1 hr 52 mins    ██▓░░░░░░░░░░░░░�
             <code>Codeigniter</code>
           </div>
       </td>
+    </tr>
+    <tr>
       <td>
           <div align="center">
             <img width="50" alt="Codeigniter" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg"><br/>
             <code>Docker</code>
+          </div>
+      </td>
+      <td>
+          <div align="center">
+            <img width="50" alt="Deno" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg"><br/>
+            <code>Deno</code>
           </div>
       </td>
     </tr>
