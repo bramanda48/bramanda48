@@ -11,15 +11,15 @@ A self-taught developer from **Malang, Indonesia**. I enjoy programming various 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2024 - To: 26 May 2024
+From: 20 May 2024 - To: 27 May 2024
 
-Total Time: 19 hrs 28 mins
+Total Time: 8 hrs 44 mins
 
-TypeScript   17 hrs 59 mins  ███████████████████████░░   92.39 %
-CSV          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TypeScript   7 hrs 38 mins   ██████████████████████░░░   87.47 %
+JSON         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+CSV          26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
