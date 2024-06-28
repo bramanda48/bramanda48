@@ -75,7 +75,7 @@ Markdown     14 mins         ▓░░░░░░░░░░░░░░░░
       </td>
       <td>
           <div align="center">
-            <img width="50" alt="Node.js" src="https://usefulangle.com/img/thumb/nodejs.png"><br/>
+            <img width="50" alt="Node.js" src="https://static-00.iconduck.com/assets.00/nodejs-icon-512x512-vl7ew1eg.png"><br/>
             <code>Node.js</code>
           </div>
       </td>
