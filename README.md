@@ -11,15 +11,15 @@ A self-taught developer from **Malang, Indonesia**. I enjoy programming various 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-Total Time: 35 hrs 12 mins
+Total Time: 40 hrs 19 mins
 
-Bash                25 hrs 58 mins  ██████████████████▒░░░░░░   73.76 %
-Docker              2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-JSON                2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-YAML                1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Other               1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Bash                29 hrs 21 mins  ██████████████████▒░░░░░░   72.79 %
+Docker              3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JSON                2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+YAML                2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Markdown            1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
