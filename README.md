@@ -72,7 +72,7 @@ TypeScript   1 hr 22 mins    ████████████▒░░░░
       </td>
       <td>
           <div align="center">
-            <img width="50" alt="Node.js" src="https://static-00.iconduck.com/assets.00/nodejs-icon-512x512-vl7ew1eg.png"><br/>
+            <img width="50" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"><br/>
             <code>Node.js</code>
           </div>
       </td>
