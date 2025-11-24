@@ -11,15 +11,14 @@ A self-taught developer from **Malang, Indonesia**. I enjoy programming various 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2025 - To: 22 November 2025
+From: 16 November 2025 - To: 23 November 2025
 
-Total Time: 6 hrs 6 mins
+Total Time: 5 hrs 24 mins
 
-Go                3 hrs 55 mins   ████████████████░░░░░░░░░   64.24 %
-YAML              2 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   35.21 %
-Text              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML       3 hrs 6 mins    ██████████████▒░░░░░░░░░░   57.64 %
+Go         2 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   41.79 %
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
