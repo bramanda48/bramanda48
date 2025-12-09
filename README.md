@@ -11,11 +11,11 @@ A self-taught developer from **Malang, Indonesia**. I enjoy programming various 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 9 hrs 45 mins
+Total Time: 7 hrs 10 mins
 
-YAML    9 hrs 45 mins   █████████████████████████   99.99 %
+YAML    7 hrs 10 mins   █████████████████████████   99.99 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
